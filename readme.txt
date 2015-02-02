@@ -1,5 +1,4 @@
-A complex number class written in C++. The class takes in two parameters, realNum and imgNum, which correspond to a complex 
-number's real number and imaginary number respectively.
+A complex number class written in C++. The class takes in two parameters, realNum and imgNum, which correspond to a complex number's real number and imaginary number respectively.
 
 Example: 
 Complex complex(4,5);
@@ -10,5 +9,4 @@ The class contains every basic complex number operation, including:
  
 Each mathematical operator (+, - , *, /= , += , etc.)
 Each comparison operator (< , <= , == , != , etc.)
-A complexFromPolar function, which takes in the Rho and Theta of a complex number in polar form and converts it to the
-real number + imaginary number form that the class uses.
+A complexFromPolar function, which takes in the Rho and Theta of a complex number in polar form and converts it to the real number + imaginary number form that the class uses.
