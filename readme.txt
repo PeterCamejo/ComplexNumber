@@ -3,7 +3,7 @@ A complex number class written in C++. The class takes in two parameters, realNu
 Example: 
 Complex complex(4,5);
 
-The new Complex object, complex, equates to the complex number 4 + 5i .
+The new Complex object, complex, equates to the complex number 4 + 5i.
 
 The class contains every basic complex number operation, including:
  
